@@ -1,11 +1,11 @@
 #Title: JustARandomBlacklist.txt
 #Author: DJMo13
-#Version: 4
+#Version: 5
 #Last modified: 31.05.2022
 #Description: A hand-made blacklist of old and new trackers, advertisements, phishing and scam sites and more
 #License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 #Github: https://github.com/DJMo13/JustARandomBlacklist
-#Number of entries: 472
+#Number of entries: 638
 
 ####################
 1673333600.rsc.cdn77.org
@@ -91,9 +91,12 @@ augu3yhd485st.com
 auiopt.unityads.unity3d.com	
 auntietraumatizemobile.com
 auth.instiengage.com
+autopatchhk.yuanshen.com
+autopatchhk.yuanshen.com.wsdvs.com
 au.web3ads.net
 a.vdo.ai
 awigglespouter.cam
+bankautomationnews.com
 baradoot.com
 bawkedaimyos.casa
 bedrapiona.com
@@ -106,6 +109,8 @@ bitcoinclix.net
 bitcoinindex.top
 bitcointruth.info
 bitspush.io
+blog.bcbsnc.com
+blog-cdn.moneysmart.sg
 bongacams.com
 botd.fpapi.io
 browser.sentry-cdn.com
@@ -121,9 +126,11 @@ cdn10236888.ahacdn.me
 cdn18685953.ahacdn.me
 cdn1.adcdnx.com
 cdn2.popcash.net
+cdn4ads.com
 cdn.adnxs-simple.com
 cdn.adschill.com
 cdn.adsfirm.com
+cdn.adskeeper.com
 cdn.adskeeper.co.uk
 cdn.adtrue.com
 cdn-app.plus500.com
@@ -139,7 +146,7 @@ cdn.cookielaw.org
 cdn-f.adsmoloco.com
 cdn.faspox.com
 cdn.iubenda.com
-cdn.jsdelivr.net
+cdn.linearicons.com
 cdn.onesignal.com
 cdn.playerserve.com
 cdn.pncloudfl.com
@@ -154,17 +161,24 @@ cdn.snigelweb.com
 cdn.stripst.com
 cdn.strpst.com
 cdn.taboola.com
+cdntechone.com
+cdn.thepennyhoarder.com
+cdn.thisiswaldo.com
 cdn.uz-panel-verified-series.rest
 cdn.ywxi.net
 cdp.cloud.unity3d.com
 cds.b5g9b8e4.hwcdn.net
 cds.d6n9n7e2.hwcdn.net
 ced.sascdn.com
+celeritascdn.com
+chipmanksmochus.com
 chirkacylal.com
 c.jcbsrv.com
 cl-1707279c.gcdn.co
+clck.adskeeper.com
 cleardexchange.com
 clk.tradedoubler.com
+cm.adskeeper.com
 cm.adskeeper.co.uk
 cm.g.doubleclick.net
 coinzillatag.com
@@ -194,8 +208,10 @@ cx.ssacdn.com
 d2klx87bgzngce.cloudfront.net
 d2o03z2xnyxlz5.cloudfront.net
 d2zur9cc2gf1tx.cloudfront.net
+d3g5ovfngjw9bw.cloudfront.net
 d3lcz8vpax4lo2.cloudfront.net
 d3mzokty951c5w.cloudfront.net
+datatechone.com
 datingukraine.org
 dcba.popcash.net
 de.iherb.com
@@ -206,13 +222,16 @@ deploy.mopinion.com
 designatejumped.com
 device-api.urbanairship.com
 d.ftte.xyz
+diromalxx.com
 discovernative.com
 displayvertising.com
 dogemaxmining.com
+dogeminingpaid.com
 doz1it.com
 dozubatan.com
 dpm.demdex.net
 d.smopy.com
+e2ertt.com
 earn.dynamicapl.com
 ecdn.analysis.fi
 ecdn.firstimpression.io
@@ -247,6 +266,7 @@ freychang.fun
 ftte.xyz
 furlsstealbilk.com
 gamesonline2021.com
+gangrelnougats.com
 gateway.arc.io
 geniusonclick.com
 geoip.instiengage.com
@@ -269,6 +289,7 @@ harmonycanyon.com
 healthzap.co
 hemiolajobson.website
 highmaidfhr.com
+hk.slb.mob.com
 ib.adnxs.com
 i.clean.gg
 iclickcdn.com
@@ -276,6 +297,8 @@ icotrack.net
 iddpop.com
 idsync.rlcdn.com
 i.gyazo.com
+i-invdn-com.investing.com
+image.cnbcfm.com
 imcdn.co
 img2.bc.game
 img.mfcimg.com
@@ -286,19 +309,23 @@ inklinkor.com
 insanitynominate.com
 interstitial-08.com
 iosads4-7.adcolony.com
-ipfs.io
+ipfind.co
 ipv4only.arpa
 is-gateway.supersonicads.com
 itineraryupper.com
+ixheeydorfnfum.com
 iybmgdynmgsrg.com
 jazygesforeday.website
 jenonaw.com
 jetzt-werd-ichs.com
 jomtingi.net
 joygaskin.com
+jp.api.share.mob.com
+jsc.adskeeper.com
 jsc.adskeeper.co.uk
 jscdn.greeter.me
 js-sec.indexww.com
+katukaunamiss.com
 kpajusmardlr.com
 k.p-n.io
 k.sni.global.fastly.net
@@ -309,6 +336,7 @@ lg-eu.nowsecurelink.com
 littlecdn.com
 lnk.digitalmediayield.com
 lnk.funneldrivers.com
+loancoin.xyz
 login.gearbest.com
 logs.ironsrc.mobi
 lucidahankul.com
@@ -316,6 +344,7 @@ lwgadm.com
 m.addthis.com
 madriyelowd.com
 mail.hodtd.com
+mainnet.infura.io
 match.adsrvr.org
 maxcdn.bootstrapcdn.com
 mblink.in
@@ -350,8 +379,11 @@ npipg30u3nku.l4.adsco.re
 npipg30u3nku.n4.adsco.re
 npipg30u3nku.s4.adsco.re
 nudatiza.xyz
+oaphoace.net
 oatmeallump.com
 ocsp.comodoca.com.cdn.cloudflare.net
+onclickgenius.com
+onclickperformance.com
 onetag-sys.com
 onlinetopchoice.com
 openfpcdn.io
@@ -361,6 +393,7 @@ outcome-ssp.supersonicads.com
 p3.adhitzads.com
 pagead2.googlesyndication.com
 paid.outbrain.com
+p.asopn.com
 pbjs.e-planning.net
 p.cpx.to
 perigshfnon.com
@@ -391,6 +424,7 @@ prod-arc-cdn-backstop-k8s.b-cdn.net
 prod-arc-cdn-k8s.b-cdn.net
 prod-arc-cdn-s3.b-cdn.net
 prod-ms.applovin.com
+propeller-tracking.com
 pro.redirectchain.live
 pseepsie.com
 publisher-event.ads.prd.ie.internal.unity3d.com
@@ -407,8 +441,10 @@ renta-car-beograd.rs
 report.appmetrica.yandex.net
 request-global.czilladx.com
 res1.applovin.com
+resources.infolinks.com
 restaurantbubblerub.com
 restorationbowelsunflower.com
+richinfo.co
 roolgage.com
 roomimg.stream.highwebmedia.com
 router.infolinks.com
@@ -418,6 +454,7 @@ rsc.cdn77.org
 r.srvtrck.com
 rt.applovin.com
 rt.applvn.com
+rtb.pushdom.co
 rumcdn.geoedge.be
 run-syndicate.com
 rv-gateway.supersonicads.com
@@ -442,11 +479,13 @@ securepubads.g.doubleclick.net
 secure.quantserve.com
 sentry.arc.io
 separatecolonist.com
+servicer.adskeeper.com
 servicer.adskeeper.co.uk
 services.vlitag.com
 serving.stat-rock.com
 shaxon.shop
 simbabtc.com
+s-img.adskeeper.com
 s-img.adskeeper.co.uk
 simplewebanalysis.com
 smartblocker.org
@@ -516,6 +555,7 @@ t.smartyads.top
 tv.gourdycortes.com
 u-8830.onetouch10.com
 ucaptcha2022.com
+ufpcdn.com
 uib.ff.avast.com
 ui.cleverwebserver.com
 uidesign.gbtcdn.com
@@ -525,6 +565,9 @@ undooptimisticsuction.com
 unithese-resteven.icu
 unknitting.com
 unphionetor.com
+upgulpinon.com
+upskittyan.com
+uptimecdn.com
 useast.quantumdex.io
 uz-panel-verified-series.rest
 v1.addthisedge.com
@@ -542,6 +585,7 @@ webview.unityads.unity3d.com
 wednesdaynaked.com
 widget-mediator.zopim.com
 wlplatincasino.adsrv.eacdn.com
+ws-mainnet.hecochain.com
 ws.tapjoyads.com
 ww1097.smartadserver.com
 www.acxjepzmvqycf.com
@@ -553,9 +597,12 @@ www.bitcoadz.io
 www.casinogurus.org
 www.cdn4ads.com
 www.cyberciti.biz
+www.designfreelogoonline.com
 www.displayvertising.com
 www.dogemaxmining.com
 www.dress-for-less.de.cdn.cloudflare.net
+www.fintechfutures.com
+www.ft.com
 www.gab.ag
 www.gearbest.com
 www.getgx.net
@@ -576,18 +623,23 @@ www.misterspex.de
 www.nvmjdpbjgrh.com
 www.nzihjybdeq.com
 www.platincasino.com
+www.prbtqjujwzwepv.com
 www.profitabledisplaycontent.com
 www.security-rd.com
 www.tbtlokvohyx.com
 www.thespacereview.com
 www.trickedbythelight.com
+www.tronfire.cloud
 www.uz-panel-verified-series.rest
 www.westwing.de
+www.worldwideinsure.com
+www.wteicogfeyhjk.com
 www.xwymbeavwvvly.com
 www.ywxigvzbkqg.com
 wxhiojortldjyegtkx.bid
 xml.admozartxml.com
 xxxsexxnxx.com
+yocto.link
 yt3.ggpht.com
 ytube2dl.com
 zap.buzz
