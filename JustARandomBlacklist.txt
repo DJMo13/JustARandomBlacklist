@@ -1,11 +1,11 @@
 #Title: JustARandomBlacklist.txt
 #Author: DJMo13
-#Version: 5
-#Last modified: 31.05.2022
+#Version: 6
+#Last modified: 03.06.2022
 #Description: A hand-made blacklist of old and new trackers, advertisements, phishing and scam sites and more
 #License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 #Github: https://github.com/DJMo13/JustARandomBlacklist
-#Number of entries: 638
+#Number of entries: 656
 
 ####################
 1673333600.rsc.cdn77.org
@@ -17,6 +17,7 @@
 1w7fwwsmuy8m.l4.adsco.re
 1w7fwwsmuy8m.n4.adsco.re
 1w7fwwsmuy8m.s4.adsco.re
+23783.deliverytraffnews.com
 268stephe5en3king.com
 2faucet.xyz
 4.adsco.re
@@ -28,7 +29,9 @@ a-84279296.cdn.ns8ds.com
 a-84279296.ns8ds.com
 aa.agkn.com
 a.bestcontentfood.top
+acceptable.a-ads.com
 ace-ts7.admarvel.com
+acscdn.com
 ad2bitcoin.com
 ad.a-ads.com
 adarima.org
@@ -49,6 +52,7 @@ adserver-2084671375.us-east-1.elb.amazonaws.com
 adslibya.com
 adsrv.adcryp.to
 ads.servenobid.com
+adstargets.com
 ads.themoneytizer.com
 adtilt.com
 adtrack.adleadevent.com
@@ -81,6 +85,7 @@ app.web3ads.net
 a.pub.network
 arbourrenewal.com
 arc.io
+asacdn.com
 ascopost.com
 as-sec.casalemedia.com
 assets.vlitag.com
@@ -91,8 +96,6 @@ augu3yhd485st.com
 auiopt.unityads.unity3d.com	
 auntietraumatizemobile.com
 auth.instiengage.com
-autopatchhk.yuanshen.com
-autopatchhk.yuanshen.com.wsdvs.com
 au.web3ads.net
 a.vdo.ai
 awigglespouter.cam
@@ -100,6 +103,7 @@ bankautomationnews.com
 baradoot.com
 bawkedaimyos.casa
 bedrapiona.com
+beewakiy.com
 bepiletussar.casa
 beycoin.xyz
 bidder.par.vip.prod.criteo.com
@@ -111,6 +115,7 @@ bitcointruth.info
 bitspush.io
 blog.bcbsnc.com
 blog-cdn.moneysmart.sg
+bluehost-cdn.com
 bongacams.com
 botd.fpapi.io
 browser.sentry-cdn.com
@@ -227,6 +232,7 @@ discovernative.com
 displayvertising.com
 dogemaxmining.com
 dogeminingpaid.com
+download-ready.net
 doz1it.com
 dozubatan.com
 dpm.demdex.net
@@ -245,6 +251,8 @@ eu.get-things-done.info
 eu.get-things-done.net
 eu.rollserver.xyz
 eutrack.work
+evenads.com
+e-v-e-n.me
 events3.adcolony.com
 events3alt.adcolony.com
 events.mz.unity3d.com
@@ -287,6 +295,7 @@ harborside.blueconic.net
 harborsidenexus.com
 harmonycanyon.com
 healthzap.co
+hematalmicast.com
 hemiolajobson.website
 highmaidfhr.com
 hk.slb.mob.com
@@ -305,13 +314,16 @@ img.mfcimg.com
 img.strpst.com
 impression.appsflyer.com
 in.hotjar.com
+initiateprecisecompletelythefile.vip
 inklinkor.com
+inpage-push.com
 insanitynominate.com
 interstitial-08.com
 iosads4-7.adcolony.com
 ipfind.co
 ipv4only.arpa
 is-gateway.supersonicads.com
+ithyourretye.xyz
 itineraryupper.com
 ixheeydorfnfum.com
 iybmgdynmgsrg.com
@@ -445,6 +457,7 @@ resources.infolinks.com
 restaurantbubblerub.com
 restorationbowelsunflower.com
 richinfo.co
+rickerrotal.com
 roolgage.com
 roomimg.stream.highwebmedia.com
 router.infolinks.com
@@ -500,15 +513,18 @@ sp.popcash.net
 srv.aso1.net
 ssl.google-analytics.com
 stagepopkek.com
+stagroam.net
 static.a-ads.com
 static.adsafeprotected.com
 static.arc.io
 static.bmcdn2.com
 static.cdnativepush.com
+static.chatra.io
 static.cloudflareinsights.com
 static.doubleclick.net
 static-doubleclick-net.l.google.com
 static.hotjar.com
+static.surfe.pro
 static.tildacdn.com
 stats.bannersnack.com
 stats.l.doubleclick.net
@@ -523,6 +539,7 @@ supertruco.com
 surfe.pro
 syndication.exdynsrv.com
 tag-adtrue-com-1341320338.us-west-2.elb.amazonaws.com
+taghaugh.com
 tag.leadplace.fr
 tags.orquideassp.com
 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
@@ -533,6 +550,7 @@ thaudray.com
 th.hh-content.com
 thumb.tildacdn.com
 ticketswinning.com
+tirreleaseavailan.xyz
 tk6if76q.ab1n.net
 tkr.arc.io
 tls13.taboola.map.fastly.net
@@ -639,7 +657,7 @@ www.ywxigvzbkqg.com
 wxhiojortldjyegtkx.bid
 xml.admozartxml.com
 xxxsexxnxx.com
-yocto.link
+youradexchange.com
 yt3.ggpht.com
 ytube2dl.com
 zap.buzz
