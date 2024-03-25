@@ -977,11 +977,8 @@ dynamic.par.vip.prod.criteo.com
 e-9660.adzerk.net
 e-v-e-n.me
 e.dlx.addthis.com
-e11942.api1.akamaiedge.net
-e11942.api3.akamaiedge.net
 e2ertt.com
 e3.adpushup.com
-e4805.dsca.akamaiedge.net
 earn.dynamicapl.com
 easygoingasperitydisconnect.com
 eatcells.com
@@ -989,7 +986,6 @@ ebizofferstoday.com
 ecdn.analysis.fi
 ecdn.firstimpression.io
 ecommerce.iap.unity3d.com
-ecs.office.com
 eddical-traturn.com
 edge-cdn.safedk.com
 edge.gycpi.b.yahoodns.net
@@ -1146,7 +1142,6 @@ gangrelnougats.com
 gateway.arc.io
 gcdsdk.appsflyer.com
 gcouncer.buzz
-gcs-eu-00002.content-storage-upload.googleapis.com
 gdpr-wrapper.privacymanager.io
 gdpr.privacymanager.io
 geniusonclick.com
@@ -1556,7 +1551,7 @@ medianet-match.dotomi.com
 mediavisor.doubleclick.net
 meindeutschepost.com
 meindeutschpost.com
-meinezollgeb&uuml;hren-dhl.de (xn--meinezollgebhren-dhl-0ec.de)
+meinezollgeb&uuml;hren-dhl.de
 mellowads.b-cdn.net
 mellowads.com
 melodyplans.com
@@ -1882,7 +1877,6 @@ prebid.smilewanted.com
 prebidserver.pixfuture.com
 premiumvertising.com
 preposterousdecidedfollowing.com
-prf.hn
 prg.smartadserver.com
 prism-break.org
 pro.fontawesome.com
@@ -2087,7 +2081,6 @@ script.anura.io
 script.hotjar.com
 script.ioam.de
 scripts.cleverwebserver.com
-sd-suggestions.operacdn.com
 sdc-next-statics-prod.dcp.stroeerws.de
 sdk-events.inner-active.mobi
 sdk-files.smaato.net
@@ -2199,7 +2192,6 @@ sp.popcash.net
 spacetoken.tech
 specialistcorrelation.com
 specialistinsensitive.com
-speeddials.opera.com
 sperans-beactor.com
 spire.aarki.net
 spl.zeotap.com
@@ -2230,8 +2222,6 @@ stage-mediate-events.applovin.com
 stagepopkek.com
 stagroam.net
 stags.bluekai.com
-star.c10r.facebook.com
-star.fallback.c10r.facebook.com
 startup.mobile.yandex.net
 stat.tildacdn.com
 static-de.ad4mat.net
