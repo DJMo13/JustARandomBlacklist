@@ -148,6 +148,7 @@ adn.ebay.com
 adoto.net
 adplayer.pro
 adpone-d.openx.net
+adrevenue.appsflyersdk.com
 adrta.com
 ads-config.unityads.unity3d.com
 ads-dev.pinterest.com
@@ -220,6 +221,7 @@ adx.ads.vungle.com
 adx.dable.io
 adx.g.doubleclick.net
 adzshield.com
+ae.iads.unity3d.com
 aerugosspritz.com
 affiliate.ledger.com
 affiliationjs.s3.amazonaws.com
@@ -270,7 +272,6 @@ analytics.vdo.ai
 analytics.webdeasy.de
 analytics.yahoo.com
 analyticsengine.s3.amazonaws.com
-analyticsnew.overwolf.com
 animikii-ana.com
 anonym-cash.com
 antiadblocksystems.com
@@ -314,6 +315,7 @@ api2.amplitude.com
 api2.branch.io
 apicpalocker.mylead.global
 apokreaamoeban.guru
+app-analytics-services.com
 app-measurement.com
 app.adjust.net.in
 app.adjust.world
@@ -404,6 +406,7 @@ banquetunarmedgrater.com
 baradoot.com
 barfsmiaowpit.com
 barnyo.com
+baseclips.ru
 bat-bing-com.a-0001.a-msedge.net
 bat.bing.com
 bawkedaimyos.casa
@@ -485,6 +488,7 @@ bookmenmetope.life
 botd.fpapi.io
 boudutoo.net
 bq.flairsyzygal.com
+br-trk.smadex.com
 brainbux.com
 brandharbor.net
 brandharbortools.com
@@ -599,6 +603,7 @@ cdn.flibzee.com
 cdn.fluidplayer.com
 cdn.g123-queensblade.com
 cdn.growthbook.io
+cdn.iads.unity3d.com
 cdn.intergi.com
 cdn.itskiddoan.club
 cdn.iubenda.com
@@ -628,7 +633,6 @@ cdn.run-syndicate.com
 cdn.run-syndicate.com.fpbns.net
 cdn.runative-syndicate.com
 cdn.runative-syndicate.com.fpbns.net
-cdn.sanity.io
 cdn.sb4you1.com
 cdn.snigelweb.com
 cdn.stripst.com
@@ -638,6 +642,7 @@ cdn.taboola.com
 cdn.tapioni.com
 cdn.thepennyhoarder.com
 cdn.thisiswaldo.com
+cdn.tsyndicate.com
 cdn.unibots.in
 cdn.unibotscdn.com
 cdn.uponelectabuzzor.club
@@ -660,6 +665,7 @@ cdn2wotcom.gcdn.co
 cdn3.mndsrv.com
 cdn4ads.com
 cdntechone.com
+cdp.cloud.unity.cn
 cdp.cloud.unity3d.com
 cds.y9r3n7y9.hwcdn.net
 ce.lijit.com
@@ -749,6 +755,7 @@ condolencespicturesquetracks.com
 config.ads.vungle.com
 config.eu.usercentrics.eu
 config.inmobi.com
+config.monetization-sdk.chartboost.com
 config.playwire.com
 config.samsungads.com
 config.uca.cloud.unity3d.com
@@ -760,6 +767,7 @@ connect-metrics-collector.s-onetag.com
 connect.facebook.net
 connect.tapjoy.com
 conoids.com
+consent-api.service.consent.usercentrics.eu
 consent.easybrain.com
 consent.trustarc.com
 constantunion.com
@@ -1031,7 +1039,6 @@ et-eus.w.inmobi.com
 etherpush.com
 ets.easybrain.com
 eu-api-tracker.kameleoon.eu
-eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com
 eu-notify-rtb.quantserve.com
 eu-u.openx.net
 eu.get-things-done.info
@@ -1088,7 +1095,6 @@ fastlane.rubiconproject.com
 fastlnd.com
 fastshop.biz
 faucet-pay.biz
-fcmtoken.googleapis.com
 fdelphaswcealifornica.com
 fearlessfaucet.com
 febatigr.com
@@ -1099,8 +1105,6 @@ filesdownloadnow.me
 filter.xmlfusion.com
 financerites.com
 finanzselect-online.de
-firebase-settings.crashlytics.com
-firebaselogging-pa.googleapis.com
 fiscalusing.com
 fishermanslush.com
 fixedfold.com
@@ -1231,6 +1235,7 @@ gulsachpyrexia.uno
 gum.criteo.com
 gundamtechnology.com
 gutiumhypoxic.website
+gw.mediation.unity3d.com
 gx.onlinedeltazone.online
 h.clarity.ms
 h5.g123.jp
@@ -1288,7 +1293,9 @@ httpkafka.unityads.unity3d.com
 hw-cdn2.adtng.com
 hwc-statics.ais.th
 hybird.rayjump.com
+i-adq.mediation.unity3d.com
 i-invdn-com.investing.com
+i-sdk.mediation.unity3d.com
 i.clean.gg
 i.connectad.io
 i.jads.co
@@ -1377,6 +1384,7 @@ inrecsys.popin.cc
 insanitynominate.com
 insight.adsrvr.org
 insights.algolia.io
+install.monetization-sdk.chartboost.com
 installscrayfishpenal.com
 int.akisinn.info
 int.dewrain.site
@@ -1446,7 +1454,6 @@ keaogteoakk.com
 kevel.wattpad.com
 keymap.adpushup.com
 kgswnd.com
-kinesis.us-east-1.amazonaws.com
 kingtoon.slnk.kr
 kingwitheaa.lol
 koilabumpoff.casa
@@ -1472,9 +1479,13 @@ lb.aatkit.com
 lb.eu-1-id5-sync.com
 lbs.eu-1-id5-sync.com
 lcdn.tsyndicate.com
+ldc1hp-gcdsdk.appsflyersdk.com
+ldc1hp-launches.appsflyersdk.com
+ldc1hp-skadsdk.appsflyersdk.com
 leafingcoitus.website
 ledger-secure.catalog.yampi.io
 ledslevier.com
+legitdogemining.com
 leodolyxoggw.l4.adsco.re
 leodolyxoggw.n4.adsco.re
 leodolyxoggw.s4.adsco.re
@@ -1551,6 +1562,7 @@ marketing.etorostatic.com
 marketing.net.brillen.de
 marketingplatform.google.com
 marketplace-ios-b240.hyprmx.com
+marsomedical.ru
 match.adsrvr.org
 match.deepintent.com
 match.justpremium.com
@@ -1671,6 +1683,7 @@ nessainy.net
 nestleareae.tech
 nestledmph.com
 net-ir-cdn.mtgglobals.com
+net-vg.mtgglobals.com
 net.mtgglobals.com
 network-internet.com
 networkadspace.com
@@ -1678,6 +1691,7 @@ networksdk.ssacdn.com
 newrtbbid.com
 newsflash24.de
 newstemptation.com
+next-promo.ru
 nginx-auction7-prd.unityads.unity3d.com
 nh.eugeniecor.com
 nicelyinformant.com
@@ -1710,8 +1724,10 @@ nudatiza.xyz
 nwwrtbbit.com
 nxtpsh.com
 nydc1.outbrain.org
+o-adq.mediation.unity3d.com
 o-murphy.com
 o-oo.ooo
+o-sdk.mediation.unity3d.com
 o64374.ingest.sentry.io
 o7swasm7nxu2.l4.adsco.re
 o7swasm7nxu2.n4.adsco.re
@@ -1759,6 +1775,7 @@ orbisbux.com
 order.gearbest.com
 orecticconchae.com
 organexpectationsmaintain.com
+otrack.kueezrtb.com
 outcome-cdn.supersonicads.com
 outcome-ssp.supersonicads.com
 outsliggooa.com
@@ -1865,6 +1882,7 @@ platform-sc.g123.jp
 platform.pubfuture.com
 platform.ssacdn.com
 play.gamepix.com
+play.mtgglobals.com
 play.rayjump.com
 playable-stats.mindworks-creative.com
 playable.mintegral.com
@@ -1916,6 +1934,7 @@ prebid.ad.smaato.net
 prebid.media.net
 prebid.smilewanted.com
 prebidserver.pixfuture.com
+prefetch.monetization-sdk.chartboost.com
 premium.easypromosapp.com
 premiumvertising.com
 preposterousdecidedfollowing.com
@@ -1933,6 +1952,7 @@ prod-bid.applovin.com
 prod-mediate-events.applovin.com
 prod-ms.applovin.com
 prod-ms4.applovin.com
+prod.cm.publishers.advertising.a2z.com
 prod.ingestion-edge.prod.dataops.mozgcp.net
 prod.tahoe-analytics.publishers.advertising.a2z.com
 profitablegatetocontent.com
@@ -2022,6 +2042,7 @@ restorationbowelsunflower.com
 reukandthis.xyz
 rewards.webtalk.co
 rezale.ru
+rezhimraboty.ru
 rf.shroffmere.com
 rh1hfe72isqt.s4.adsco.re
 ricewaterhou.one
@@ -2279,6 +2300,7 @@ stagroam.net
 stags.bluekai.com
 startup.mobile.yandex.net
 stat.tildacdn.com
+static-content-1.smadex.com
 static-de.ad4mat.net
 static-doubleclick-net.l.google.com
 static-v2.trbo.com
@@ -2459,6 +2481,7 @@ toglooman.com
 top.mail.ru
 topshopprices.com
 topsolutions.rdtk.io
+tornadoacoustics.ru
 tournamentfosterchild.com
 toutory-loormself.com
 tpat.api.vungle.com
@@ -2504,7 +2527,6 @@ tracking.intl.miui.com
 tracking.m6r.eu
 tracking.minitool.com
 tracking.miui.com
-tracking.overwolf.com
 tracking.peen6yee.com
 tracking.prmtracking3.com
 tracking.rus.miui.com
@@ -2582,6 +2604,7 @@ u51.aabdmn.com
 uapunly5riop.usemoralis.com
 uc.chatra.io
 ucaptcha2022.com
+uct.service.usercentrics.eu
 ufpcdn.com
 uh8e5ecf26uh.ggljjk.cc
 ui.cleverwebserver.com
@@ -2615,6 +2638,7 @@ uqilxzllo20j.s4.adsco.re
 us-u.openx.net
 us.creativecdn.com
 us.divatraffic.bid
+us01.mtgglobals.com
 us01.rayjump.com
 usdtlr.com
 use1.fptls.com
@@ -2684,6 +2708,7 @@ vst.c.appier.net
 vtrk.doubleverify.com
 vuolobnhqb.com
 vzigttqgqx.com
+w.isx.unity3d.com
 w1.luckyorange.com
 w7.pngwing.com
 wa.meson.ai
